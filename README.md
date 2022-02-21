@@ -8,3 +8,5 @@ The only link that is not available is the RESUME link, since my personal resume
 
 
 Link to the website: https://vasqc.github.io/PortfolioCV/
+
+<img width="1289" alt="Screen Shot 2022-02-21 at 5 58 05 PM" src="https://user-images.githubusercontent.com/90007988/155035874-a5cf568d-9163-43d2-a668-4077eb6d2a69.png">
